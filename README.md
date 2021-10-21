@@ -53,6 +53,8 @@ Describe your project
 :heavy_check_mark: Feature 1;\
 :heavy_check_mark: Feature 2;\
 :heavy_check_mark: Feature 3;
+Changed gap deprecated css;
+Used variables for defining colors;
 
 ## :rocket: Technologies ##
 

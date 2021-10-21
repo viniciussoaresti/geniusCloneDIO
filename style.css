@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    background-color: rgb(208, 255, 239);
+}
+
+:root {
+    --white: #ffffff;
+}
+
+.main-game {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.genius {
+    display: grid;
+    grid-template-areas: 'green red''yellow blue';
+    gap: 10px;
+    /*grid-gap is deprecated*/
+    border: 1px solid var(--white);
+    background-color: var(--white);
+    border-radius: 100%;
+    width: 700px;
+    height: 700px;
+}
