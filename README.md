@@ -55,7 +55,10 @@ Describe your project
 :heavy_check_mark: Feature 3;
 Changed gap deprecated css;
 Used variables for defining colors;
-Inverted opacities to focus selection (it doesn't make sense to make a selection opaque).
+Inverted opacities to focus selection (it doesn't make sense to make a selection opaque);
+Complete translation to english;
+Improved readability and functionality of the code;
+Completed game dynamic (getting faster each round);
 
 ## :rocket: Technologies ##
 
