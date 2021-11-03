@@ -3,7 +3,7 @@
 
   &#xa0;
 
-  <!-- <a href="https://geniusclonedio.netlify.app">Demo</a> -->
+<a href="https://geniusclonedio.netlify.app">Demo</a>
 </div>
 
 <h1 align="center">GeniusCloneDIO</h1>
