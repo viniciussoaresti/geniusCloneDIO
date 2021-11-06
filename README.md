@@ -3,7 +3,7 @@
 
   &#xa0;
 
-<a href="https://geniusclonedio.netlify.app">Demo</a>
+<a href="https://geniusclonedio.netlify.app">👉Live Demo👈</a>
 </div>
 
 <h1 align="center">GeniusCloneDIO</h1>
@@ -16,21 +16,11 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/viniciussoaresti/geniusclonedio?color=56BEB8">
 
   <img alt="License" src="https://img.shields.io/github/license/viniciussoaresti/geniusclonedio?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/viniciussoaresti/geniusclonedio?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/viniciussoaresti/geniusclonedio?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/viniciussoaresti/geniusclonedio?color=56BEB8" /> -->
 </p>
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  GeniusCloneDIO 🚀 Under construction...  🚧
+<h4 align="center"> 
+	🚧  Implementing new functionalities...  🚧
 </h4> 
-
-<hr> -->
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -46,29 +36,30 @@
 
 ## :dart: About ##
 
-Describe your project
+Genius Game - Web Version 🎉
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
-Changed gap deprecated css;
-Used variables for defining colors;
-Inverted opacities to focus selection (it doesn't make sense to make a selection opaque);
-Complete translation to english;
-Improved readability and functionality of the code;
-Completed game dynamic (getting faster each round);
+:heavy_check_mark: Genius Game Web Version;
+
+My additions:
+
+:heavy_check_mark: Changed deprecated css (grid gap);\
+:heavy_check_mark: Used variables for colors definition;\
+:heavy_check_mark: Inverted opacities to focus selection (it didn't make sense to make a selection with a semitransparent background);\
+:heavy_check_mark: English translation;\
+:heavy_check_mark: Hosted on Netlify;\
+:heavy_check_mark: Improved code readability and functionality;\
+❌ Completed game dynamic (getting faster each round);
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JS](https://developer.mozilla.org/pt-BR/docs/Web/Javascript)
+- [Netlify](https://www.netlify.com/)
 
 ## :white_check_mark: Requirements ##
 
@@ -97,7 +88,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/viniciussoaresti" target="_blank">Vinícius Soares</a>
+Made with :heart: by <a href="https://github.com/viniciussoaresti" target="_blank">Vinícius Soares</a> and inspired by <a href="https://github.com/SpruceGabriela" target="_blank">Gabriela Pinheiro's</a> Genius' Clone, which you can find <a href="https://github.com/SpruceGabriela/genesis-dio" target="_blank">here</a>.
 
 &#xa0;
 
